@@ -1,0 +1,2 @@
+model_checkpoint_path: "recommender"
+all_model_checkpoint_paths: "recommender"
